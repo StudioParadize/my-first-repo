@@ -1,0 +1,9 @@
+dependencies/
+build/
+*.class
+.env
+.env.local
+.idea/
+*.swp
+.DS_Store
+*.log
