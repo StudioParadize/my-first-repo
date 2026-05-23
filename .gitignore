@@ -7,3 +7,8 @@ build/
 *.swp
 .DS_Store
 *.log
+
+node_modules/
+git-tutorial/
+my-first-repo/
+
